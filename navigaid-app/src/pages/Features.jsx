@@ -26,7 +26,7 @@ const Features = () => {
   return (
     <Container>
         <Text>
-            Sample Text
+            Click to Begin
         </Text>
     </Container>
   );
