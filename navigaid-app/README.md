@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project uses React.js Front end Frame work to create a fully functional web application which aims to help people with the medicaid re-enrollment process.
+This project uses React.js Front end Frame work to create a fully functional web application which aims to help people with the medicaid re-enrollment/redetermination process.
 
 # MOTIVATION
 
