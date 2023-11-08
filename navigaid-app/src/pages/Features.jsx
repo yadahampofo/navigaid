@@ -25,9 +25,6 @@ const Text = styled.span`
 const Features = () => {
   return (
     <Container>
-        <Text>
-            Click to Begin
-        </Text>
     </Container>
   );
 };
