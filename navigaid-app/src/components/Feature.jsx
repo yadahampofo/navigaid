@@ -68,10 +68,10 @@ export const Feature = () => {
             <br />
             <b>good</b> business
         </Title>
-        <Desc>Thousands of Americans constantly struggle to understand the 
-              Medicaid Eligibility and Enrollment Process. 
-              This website hopes to make the process 
-              a bit easier</Desc>
+        <Desc>6.8 Million Americans are at risk of medicaid coverage losses due to adminsitrative errors in 
+              form submissions and a lack of information about what is required to maintain Medicaid eligibility.
+              This website hopes to make the process a bit easier.
+              </Desc>
         <Desc>Information is very key to your sucess and we hope to be your guide</Desc>
         <Button>Learn More</Button>
       </Right>
