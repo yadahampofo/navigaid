@@ -93,7 +93,7 @@ const Intro = () => {
                 <Title>About Us</Title>
                 <Description> 
                    March 31, 2023 marked the end of the Medicaid Continious Enrollment Process. 
-                   As many state department begin the redetermination process, this website hopes to provide
+                   As many State Health Departments begin the redetermination process, this website hopes to provide
                    automony back to civilians by ensuring that they are well informed of what is required to maintain their eligibility 
                    and avoid administrative errors which might compromise thier medicaid coverage.
                    Our website serves to be a helpful and client centered resource for everything medicaid-renrollment related.
