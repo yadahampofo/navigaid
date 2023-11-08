@@ -14,6 +14,7 @@ const Container = styled.div`
 const Image = styled.img`
     width: 40px;
     padding: 10px 20px;
+    padding-top: 20px;
     align-items: center;
     justify-content: center;
 `;
