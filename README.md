@@ -24,5 +24,6 @@ To run Navigaid, in the project directory run the following commands:
 
 # API USED IN PROJECT
 
-*Currently in progress*
+*Currently in progress* \n
+
 A Google Custom Search JSON API which embedded in the search bar component of the project to allow users to be able to search for information related to the medicaid renrollment process.
