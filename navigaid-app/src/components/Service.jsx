@@ -17,6 +17,7 @@ const Left = styled.div`
 const Image = styled.img`
     display: ${(props) => props.open && "none"};
     height: 40%;
+    padding: 50px;
 `;
 
 const Video = styled.video`

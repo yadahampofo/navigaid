@@ -27,8 +27,8 @@ export const MiniCard = () => {
   return (
     <Container>
         <Image src={search}/> 
-        <Text>
-            Sample Text
+        <Text> 
+            Click here to begin
         </Text>
         </Container>
   )
