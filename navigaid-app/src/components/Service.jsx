@@ -87,7 +87,7 @@ export const Service = () => {
         <Right>
         <Wrapper>
             <Title>
-              Simple Process to Start 
+              AI Integration Coming soon! 
             </Title>
             <Description>Our AI Chatbot Coming soon for quick and easy translation and search! </Description>
             <CardContainer>
