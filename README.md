@@ -12,7 +12,7 @@ Although many would loose coverage due to post-pandemic increase in income, the 
 
 This website aims to be a tool to circumvent as many administrative errors as possible and to ensure that beneficiaries are fully informed about the resources available to help them during this redetermination period.
 
-Run our website using the code below and explore its features!
+Run the website using the code below and explore its features!
 
 # HOW TO RUN
 
