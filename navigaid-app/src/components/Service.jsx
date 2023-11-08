@@ -89,7 +89,7 @@ export const Service = () => {
             <Title>
               Simple Process to Start 
             </Title>
-            <Description>Our AI Chatbot can answer all your questions</Description>
+            <Description>Our AI Chatbot Coming soon for quick and easy translation and search! </Description>
             <CardContainer>
                 <MiniCard/>
                 <MiniCard/>
