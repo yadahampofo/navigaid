@@ -25,7 +25,7 @@ To run Navigaid, in the project directory run the following commands:
 # NAVIGAID GPT FEATURE
 <br />Created using code from https://www.youtube.com/@AniaKubow<br />
 <br /> Tech stack used : HTML, CSS AND JAVASCRIPT <br />
-<br /> Limitation: ChatGPT API free version does not allow api connection (currently working on a work around<br />
+<br /> Limitation: ChatGPT API free version does not allow api connection (currently working on a work around) <br />
 
 # API USED IN PROJECT
 <br /> *Currently in progress*<br />
