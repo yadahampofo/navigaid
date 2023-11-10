@@ -22,15 +22,14 @@ To run Navigaid, in the project directory run the following commands:
 
 - npm start
 
-# API USED IN PROJECT
-<br /> *Currently in progress*<br />
-
-- A custom API based on my personal searches on Non-profit Organizations with medicaid processing services to fill directory more efficiently and in a reusable manner<br />
-- A Google Custom Search JSON API which embedded in the search bar component of the project to allow users to be able to search for information related to the medicaid renrollment process.<br />
-
-#NAVIGAID GPT
+# NAVIGAID GPT FEATURE
 <br />Created using code from https://www.youtube.com/@AniaKubow<br />
 <br /> Tech stack used : HTML, CSS AND JAVASCRIPT <br />
-<br /> Limitation: ChatGPT API free version does not allow api connection<br />
+<br /> Limitation: ChatGPT API free version does not allow api connection (currently working on a work around<br />
+
+# API USED IN PROJECT
+<br /> *Currently in progress*<br />
+- A custom API based on my personal searches on Non-profit Organizations with medicaid processing services to fill directory more efficiently and in a reusable manner<br />
+- A Google Custom Search JSON API which embedded in the search bar component of the project to allow users to be able to search for information related to the medicaid renrollment process.<br />
 
 
