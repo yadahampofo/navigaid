@@ -18,7 +18,7 @@ Run the website using the code below and explore its features!
 
 To run Navigaid, in the project directory run the following commands:
 
-- npm init
+- cd navigaid-app 
 
 - npm start
 
